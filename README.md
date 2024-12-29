@@ -1,6 +1,6 @@
 # 🚀 Speedtest Electron App - ByProkapa
 
-Este projeto é um aplicativo desktop baseado em **Electron** que utiliza o **Speedtest.net** para testar a velocidade da sua conexão. A aplicação oferece uma experiência simplificada e livre de anúncios, com uma interface fixa e pronta para uso em sistemas Linux.
+Este script gera um aplicativo desktop baseado em **Electron** que utiliza o **Speedtest.net** para testar a velocidade da sua conexão. A aplicação é um webapp simplificada e livre de anúncios, com uma interface fixa e pronta para uso em sistemas Linux.
 
 ---
 
